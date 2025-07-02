@@ -1,6 +1,0 @@
-@ApiCrudChallenge_HostAddress = http://localhost:5177
-
-GET {{ApiCrudChallenge_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
